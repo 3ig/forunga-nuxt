@@ -1,5 +1,5 @@
 
-## NuePress
+## Nuxt + WordPress for forunga.com
 
 [Nuxt.js](https://github.com/nuxt/nuxt.js) + [WordPress REST API](https://developer.wordpress.org/rest-api/)
 
