@@ -22,7 +22,7 @@
                     </div>
                 </div>
                 <div class="content" id="article-content" v-html="article.content.rendered"></div>
-                <!-- <ArticleComments :article="article"/> -->
+                <ArticleComments :article="article"/>
             </div>
         </transition>
         <div v-if="linkRGB != ''" v-html="linkRGB"></div>
